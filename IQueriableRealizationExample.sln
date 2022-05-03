@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomExpressionTrees.Lesson1", "CustomExpressionTrees.Lesson1\CustomExpressionTrees.Lesson1.csproj", "{8DD92436-029B-4BD6-9DAE-20C437F08E51}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomExpressionTrees.Lesson2", "CustomExpressionTrees.Lesson2\CustomExpressionTrees.Lesson2.csproj", "{B3D6F15D-2B64-46AC-8BBD-0734BDB7A56A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomExpressionTrees.Lesson3", "CustomExpressionTrees.Lesson3\CustomExpressionTrees.Lesson3.csproj", "{1CC1960A-90DE-4F25-A315-619243A429DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomExpressionTrees.Lesson4", "CustomExpressionTrees.Lesson4\CustomExpressionTrees.Lesson4.csproj", "{B540D07D-B7B8-498C-9FE7-C0DA6C9DC6F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomExpressionTrees.Lesson5", "CustomExpressionTrees.Lesson5\CustomExpressionTrees.Lesson5.csproj", "{21324D0D-0602-482F-8B6A-EDAE34072193}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomExpressionTrees.Lesson6", "CustomExpressionTrees.Lesson6\CustomExpressionTrees.Lesson6.csproj", "{56D5707B-47D7-4C90-AC79-8F48803A4E1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DD92436-029B-4BD6-9DAE-20C437F08E51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD92436-029B-4BD6-9DAE-20C437F08E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD92436-029B-4BD6-9DAE-20C437F08E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD92436-029B-4BD6-9DAE-20C437F08E51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3D6F15D-2B64-46AC-8BBD-0734BDB7A56A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D6F15D-2B64-46AC-8BBD-0734BDB7A56A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D6F15D-2B64-46AC-8BBD-0734BDB7A56A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D6F15D-2B64-46AC-8BBD-0734BDB7A56A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CC1960A-90DE-4F25-A315-619243A429DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CC1960A-90DE-4F25-A315-619243A429DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CC1960A-90DE-4F25-A315-619243A429DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CC1960A-90DE-4F25-A315-619243A429DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B540D07D-B7B8-498C-9FE7-C0DA6C9DC6F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B540D07D-B7B8-498C-9FE7-C0DA6C9DC6F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B540D07D-B7B8-498C-9FE7-C0DA6C9DC6F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B540D07D-B7B8-498C-9FE7-C0DA6C9DC6F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21324D0D-0602-482F-8B6A-EDAE34072193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21324D0D-0602-482F-8B6A-EDAE34072193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21324D0D-0602-482F-8B6A-EDAE34072193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21324D0D-0602-482F-8B6A-EDAE34072193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D5707B-47D7-4C90-AC79-8F48803A4E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D5707B-47D7-4C90-AC79-8F48803A4E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D5707B-47D7-4C90-AC79-8F48803A4E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D5707B-47D7-4C90-AC79-8F48803A4E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D6CA3CB-FF74-42B8-B075-F79A2C369FE4}
+	EndGlobalSection
+EndGlobal
